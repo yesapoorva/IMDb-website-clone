@@ -1,0 +1,14 @@
+#addWatchList {
+    font-size: large;
+    font-weight: 400;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    background-color: rgb(245, 197, 24);
+    color: #000000;
+  
+    padding: 10px;
+    margin: 10px;
+  
+    cursor: pointer;
+
+    border-radius: 5px;
+  }

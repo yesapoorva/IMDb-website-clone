@@ -1,0 +1,118 @@
+.mainContainer {
+  height: auto;
+  position: relative;
+}
+
+.backgroundOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  filter: blur(8px);
+  z-index: -1;
+}
+
+.detailed-page-container {
+  background-color: #1f1f1f;
+  width: 80%;
+  height: 500px;
+  margin: auto;
+  margin-top: 100px;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.subcontainer1 {
+  width: 100%;
+  height: 100px;
+  position: relative;
+}
+
+h1 {
+    display: inline-block;
+  font-size: 30px;
+  margin-bottom: 0px;
+  width: 50%;
+}
+
+.rating{
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+
+    width: 200px;
+}
+
+#ratingID{
+    display: flex;
+    align-items: center;
+    margin-top: 2px;
+}
+
+.subcontainer2 {
+  height: 400px;
+  width: 100%;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.imgContainer {
+  height: 99%;
+  width: 20%;
+}
+img {
+  height: 99%;
+  width: auto;
+}
+
+.infoClass {
+  width: 75%;
+}
+.gerneDiv {
+  height: fit-content;
+  width: auto;
+}
+.gerneClass {
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 15px 15px 15px 0px;
+}
+
+.gerneClass:hover {
+  background-color: #2e2d2d;
+}
+
+.summaryClass {
+  width: auto;
+  height: auto;
+
+  margin-top: 15px;
+}
+
+.spanClass {
+  margin: 10px;
+  color: #cfcaca;
+}
+
+hr {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.watchlistClass {
+  display: flex;
+  justify-content: center;
+  height: auto;
+}
+
+
+
+svg{
+    color: yellow;
+}

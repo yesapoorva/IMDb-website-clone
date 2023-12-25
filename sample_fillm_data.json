@@ -1,0 +1,141 @@
+[
+  {
+    "title": "The Matrix",
+    "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+    "writers": ["Lilly Wachowski", "Lana Wachowski"],
+    "release_year": 1999,
+    "duration": "2h 16min",
+    "IMDB_rating": 8.7,
+    "genre": ["Action", "Sci-Fi"],
+    "type": "R",
+    "director": "Lilly Wachowski, Lana Wachowski",
+    "poster": "https://m.media-amazon.com/images/I/71PfZFFz9yL._AC_UF1000,1000_QL80_.jpg",
+    "summary": "In a dystopian future, a computer hacker named Neo learns that his perceived reality is a simulation called the Matrix. As he joins a group of rebels, Neo discovers his true destiny and battles against powerful machines to save humanity."
+  },
+  {
+    "title": "Pulp Fiction",
+    "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+    "writers": ["Quentin Tarantino", "Roger Avary"],
+    "release_year": 1994,
+    "duration": "2h 34min",
+    "IMDB_rating": 8.9,
+    "genre": ["Crime", "Drama"],
+    "type": "R",
+    "director": "Quentin Tarantino",
+    "poster": "https://m.media-amazon.com/images/I/61JmNG2dsDL._AC_UF1000,1000_QL80_.jpg",
+    "summary": "Pulp Fiction is a non-linear narrative that intertwines the lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits. Through a series of interconnected events, their stories unfold in a violent, witty, and unforgettable tale of crime and redemption."
+  },
+  {
+    "title": "Forrest Gump",
+    "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+    "writers": ["Winston Groom (novel)", "Eric Roth (screenplay)"],
+    "release_year": 1994,
+    "duration": "2h 22min",
+    "IMDB_rating": 8.8,
+    "genre": ["Drama", "Romance"],
+    "type": "PG-13",
+    "director": "Robert Zemeckis",
+    "poster": "https://m.media-amazon.com/images/I/717C4+q+CrL.jpg",
+    "summary": "Forrest Gump follows the extraordinary life of a man with limited intelligence but an enormous heart. From meeting historical figures to building a shrimp empire, Forrest's journey is a testament to the power of love, luck, and the human spirit."
+  },
+  {
+    "title": "The Dark Knight",
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "writers": [
+      "Jonathan Nolan (screenplay)",
+      "Christopher Nolan (screenplay)"
+    ],
+    "release_year": 2008,
+    "duration": "2h 32min",
+    "IMDB_rating": 9.0,
+    "genre": ["Action", "Crime", "Drama"],
+    "type": "PG-13",
+    "director": "Christopher Nolan",
+    "poster": "https://m.media-amazon.com/images/I/81CLFQwU-WL._AC_UF1000,1000_QL80_.jpg",
+    "summary": "The Dark Knight confronts the chaos-inflicting Joker in a battle of ideologies and morality. With Gotham City hanging in the balance, Batman faces his most formidable adversary, leading to a gripping exploration of heroism, sacrifice, and the nature of true justice."
+  },
+  {
+    "title": "The Godfather",
+    "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+    "writers": ["Mario Puzo (screenplay)", "Francis Ford Coppola (screenplay)"],
+    "release_year": 1972,
+    "duration": "2h 55min",
+    "IMDB_rating": 9.2,
+    "genre": ["Crime", "Drama"],
+    "type": "R",
+    "director": "Francis Ford Coppola",
+    "poster": "https://m.media-amazon.com/images/I/61vZNqF+GzL._AC_UF894,1000_QL80_.jpg",
+    "summary": "The Godfather delves into the world of organized crime as the Corleone family navigates power, loyalty, and betrayal. Spanning decades, this epic saga explores the complexities of family, honor, and the consequences of choices in a treacherous underworld."
+  },
+  {
+    "title": "Inception",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "writers": ["Christopher Nolan"],
+    "release_year": 2010,
+    "duration": "2h 28min",
+    "IMDB_rating": 8.8,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "type": "PG-13",
+    "director": "Christopher Nolan",
+    "poster": "https://m.media-amazon.com/images/I/71DwIcSgFcS.jpg",
+    "summary": "Inception takes us on a mind-bending journey into the world of shared dreams and subconscious manipulation. As Dom Cobb and his team navigate the complexities of inception, secrets and hidden truths unfurl, leading to a thrilling exploration of reality, memory, and the power of the mind."
+  },
+  {
+    "title": "Schindler's List",
+    "cast": ["Liam Neeson", "Ben Kingsley", "Ralph Fiennes"],
+    "writers": ["Thomas Keneally (book)", "Steven Zaillian (screenplay)"],
+    "release_year": 1993,
+    "duration": "3h 15min",
+    "IMDB_rating": 8.9,
+    "genre": ["Biography", "Drama", "History"],
+    "type": "R",
+    "director": "Steven Spielberg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "summary": "Schindler's List is a powerful retelling of Oskar Schindler's mission to save over a thousand Jews during the Holocaust. Steven Spielberg's masterful direction brings to light the incredible acts of courage and humanity in the face of unimaginable evil."
+  },
+
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "cast": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
+    "writers": [
+      "J.R.R. Tolkien (novel)",
+      "Fran Walsh (screenplay)",
+      "Philippa Boyens (screenplay)",
+      "Peter Jackson (screenplay)"
+    ],
+    "release_year": 2003,
+    "duration": "3h 21min",
+    "IMDB_rating": 8.9,
+    "genre": ["Action", "Adventure", "Drama"],
+    "type": "PG-13",
+    "director": "Peter Jackson",
+    "poster": "https://i.etsystatic.com/10683147/r/il/fd0952/3350989948/il_1080xN.3350989948_l91u.jpg",
+    "summary": "The epic conclusion to the Lord of the Rings trilogy sees the Fellowship's quest to destroy the One Ring culminate in a climactic battle for Middle-earth. Peter Jackson's masterful adaptation brings J.R.R. Tolkien's world to vivid life in this sweeping tale of heroism and sacrifice."
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+    "writers": ["Stephen King (short story)", "Frank Darabont (screenplay)"],
+    "release_year": 1994,
+    "duration": "2h 22min",
+    "IMDB_rating": 9.3,
+    "genre": ["Drama"],
+    "type": "R",
+    "director": "Frank Darabont",
+    "poster": "https://rukminim2.flixcart.com/image/850/1000/l05lx8w0/poster/y/b/z/medium-the-shawshank-redemption-movie-fear-can-hold-you-prisoner-original-imagcy64ydrzkcyx.jpeg?q=90",
+    "summary": "Set in Shawshank State Penitentiary, this powerful drama follows the journey of Andy Dufresne, a banker convicted of murder, and his friendship with fellow inmate Red. Frank Darabont's poignant tale of hope, redemption, and the human spirit is a timeless classic."
+  },
+  {
+    "title": "Fight Club",
+    "cast": ["Edward Norton", "Brad Pitt", "Meat Loaf"],
+    "writers": ["Chuck Palahniuk (novel)", "Jim Uhls (screenplay)"],
+    "release_year": 1999,
+    "duration": "2h 19min",
+    "IMDB_rating": 8.8,
+    "genre": ["Drama", "Mystery"],
+    "type": "R",
+    "director": "David Fincher",
+    "poster": "https://m.media-amazon.com/images/I/81sZU-iKNGL.jpg",
+    "summary": "Fight Club delves into the psyche of an insomniac office worker who forms an underground fight club with a charismatic soap salesman. As the club grows, it spirals into an anarchic movement that challenges the norms of consumer society. David Fincher's mind-bending thriller is a social commentary for the ages."
+  }
+]
